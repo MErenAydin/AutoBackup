@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+
+# Logs
+*.log
+backup_log.txt
+
+# Backups
+AutoBackups/
+*.zip
