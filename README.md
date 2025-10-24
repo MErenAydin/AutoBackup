@@ -1,6 +1,7 @@
 # AutoBackup
 
-A lightweight **real-time folder backup tool** written in Python.  
+A lightweight **real-time folder backup tool** written in Python.
+Originally developed to automatically back up **Don't Starve Together** server clusters.  
 It automatically detects file changes and creates versioned backups, optionally as ZIP archives.
 
 ---
