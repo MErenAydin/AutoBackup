@@ -30,4 +30,4 @@ pip install -r requirements.txt
 Run the script with Python:
 
 ```bash
-python AutoBackup.py --source-path "C:\path\to\your\source"
+python AutoBackup.py --source-path "C:\path\to\your\source" --backup-path "C:\path\to\your\destination" --buffer-size 30 --cooldown 120 --zip
